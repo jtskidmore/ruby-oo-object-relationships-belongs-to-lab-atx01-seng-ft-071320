@@ -2,7 +2,7 @@
 class Artist
 
   def name
-    @name = "Beyonce"
+    "Beyonce"
   end
 
 end
