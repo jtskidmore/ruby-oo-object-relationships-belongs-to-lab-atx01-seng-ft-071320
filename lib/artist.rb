@@ -1,8 +1,6 @@
 
 class Artist
 
-  def name
-    "Beyonce"
-  end
+  attr_accessor :name
 
 end
